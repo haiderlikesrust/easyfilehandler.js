@@ -1,12 +1,17 @@
 ### easyfilehandler.js
 
-**Why use this?**
+**Why use `easyfilehandler.js`?**
 
 
 *You should use `easyfilehandler.js` because it is object oriented. `easyfilehandler.js` also used `ES6` way of importing, the best feature about this package is it does everything for you. I know you hate writing fs.writeFile and other funcations again and again.*
 
 
-**Here are some examples of `easyfilehandler.js`**
+**How to use `easyfilehandler.js`?**
+
+
+```shell 
+npm install easyfilehandler.js
+```
 
 
 **File Reading**
