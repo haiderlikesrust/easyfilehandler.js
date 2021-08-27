@@ -6,6 +6,17 @@
 *You should use `easyfilehandler.js` because it is object oriented. `easyfilehandler.js` also used `ES6` way of importing, the best feature about this package is it does everything for you. I know you hate writing fs.writeFile and other funcations again and again.*
 
 
+***Is this package open source?***
+
+
+*The answer is ....yes! You can contribute [Here](https://github.com/Haider-Ali-Dev/easyfilehandler.js)
+
+
+***Do you guys have package for python***
+
+*Yes we have a package for python [Here](https://pypi.org/project/EasyFileHandling/)*
+
+
 **How to use `easyfilehandler.js`?**
 
 

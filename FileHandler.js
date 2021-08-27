@@ -3,7 +3,6 @@ import fs from 'fs'
 class FileHandler{
     constructor(filename) {
         this.filename = filename;
-        this.currentPath = __dirname;
     }
 
     writeToFileSync = (data) => {
