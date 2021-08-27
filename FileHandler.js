@@ -11,7 +11,11 @@ class FileHandler{
     }
 
     writeToFileAsync = (data) => {
-        fs.writeFile(this.filename, data)
+        fs.writeFile(this.filename, data, (err) => {
+            if (err) {
+                console.log(err)
+            }
+        })
     }
 
     readFileAsync = (callback) => {
@@ -31,4 +35,4 @@ class FileHandler{
 }
 
 
-export { FileHandler };
+export default FileHandler ;

@@ -1,13 +1,13 @@
 {
   "name": "easyfilehandler.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Object oriented file handler for file I/O",
   "main": "FileHandler.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["javascript file I/O", "JavaScript", "file system", "fs"],
   "author": "Haider ali",
   "license": "ISC",
   "dependencies": {}
