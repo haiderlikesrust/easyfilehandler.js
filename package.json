@@ -1,6 +1,6 @@
 {
   "name": "easyfilehandler.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Object oriented file handler for file I/O",
   "main": "FileHandler.js",
   "type": "module",
