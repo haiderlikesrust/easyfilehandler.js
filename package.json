@@ -1,13 +1,14 @@
 {
   "name": "easyfilehandler.js",
-  "version": "1.0.4",
+  "version": "1.1.1",
   "description": "Object oriented file handler for file I/O",
   "main": "FileHandler.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["javascript file I/O", "JavaScript", "file system", "fs"],
+  "keywords": ["javascript file I/O", "JavaScript", "file system", "fs", "Json file", "json", "promise", "directory",
+  "text", "create", "touch", "read", "write file", "read file", "object oriented", "fast"],
   "author": "Haider ali",
   "license": "ISC",
   "dependencies": {}

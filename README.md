@@ -1,5 +1,14 @@
 ### easyfilehandler.js
 
+
+**[DOCUMENTATION]**(https://filehandling.netlify.app/docs.html)
+
+
+
+**Whats New?**
+
+*We have made [documentation](https://filehandling.netlify.app/docs.html) for this package. We have also added `JsonHandler` which works like FileHandler but only for JSON files, learn  more [Here](https://filehandling.netlify.app/docs.html)*
+
 **Why use `easyfilehandler.js`?**
 
 

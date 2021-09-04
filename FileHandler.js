@@ -34,4 +34,4 @@ class FileHandler{
 }
 
 
-export default FileHandler ;
+export default FileHandler;
