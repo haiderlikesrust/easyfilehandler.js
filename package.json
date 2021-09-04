@@ -1,9 +1,13 @@
 {
   "name": "easyfilehandler.js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Object oriented file handler for file I/O",
   "main": "FileHandler.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haider-Ali-Dev/easyfilehandler.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
