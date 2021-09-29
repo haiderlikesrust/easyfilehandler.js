@@ -1,3 +1,3 @@
-export function printMsg() {
-    console.log("Thanks for using easyfilehandler.js");
-}
+export { FileHandler } from './FileHandler'
+export { JsonHandler } from './JsonHandler'
+export { makeFolder } from './Functions'

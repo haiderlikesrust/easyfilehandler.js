@@ -85,4 +85,4 @@ class JsonHandler {
     }
 }
 
-export default JsonHandler;
+export const JsonHandler;

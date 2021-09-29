@@ -2,7 +2,7 @@
   "name": "easyfilehandler.js",
   "version": "1.1.2",
   "description": "Object oriented file handler for file I/O",
-  "main": "FileHandler.js",
+  "main": "main.js",
   "type": "module",
   "repository": {
     "type": "git",
